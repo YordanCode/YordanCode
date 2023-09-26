@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Yordan
+- 👋 Hi, I’m Yordan 
 - 👀 I’m interested in .NET programming
 - 🌱 I’m currently learning C#
 - 💞️ I’m looking to collaborate on exciting projects that involve C#.If you have a project idea or need an extra hand on an existing project,
